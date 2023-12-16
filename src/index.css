@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    flex-direction: column;
+    background: linear-gradient(to bottom right, blue, purple) no-repeat;
+    overflow-y: hidden;
+    background-position: center;
+    background-size: cover;
+}
